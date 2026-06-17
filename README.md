@@ -8,12 +8,12 @@ Pipeline (7 steps)
 6. Tune K — 5-fold cross-validation across K = 1…30 → Best K = 11
 7. Evaluate — full metrics report
 
-Model             Results
-Metric            Score
-Best K            11
-CV Accuracy       82.5%
-Test Accuracy     73.2%
-ROC-AUC           0.786
-Precision         62%
-Recall            43%
-F1-Score          51%
+Model             Results //
+Metric      -      Score   //
+Best K      -      11      //
+CV Accuracy  -     82.5%   //
+Test Accuracy  -   73.2%   //
+ROC-AUC       -    0.786   //
+Precision    -     62%     //
+Recall       -     43%     // 
+F1-Score    -      51%     //
